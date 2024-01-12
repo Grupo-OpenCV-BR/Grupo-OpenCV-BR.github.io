@@ -304,6 +304,6 @@ Assim você acabou de adquirir uma imagem RGB e uma imagem de profundidade usand
 Com muito carinho e um pouco de agressão...
 
 
-[Natália Amorim](https://www.linkedin.com/in/natalia-carvalho-02901798/)
+[Natália Amorim](https://www.linkedin.com/in/nataliac-amorim/)
 
 Engenheira em Visão Computacional e fundadora do Grupo OpenCV Brasil.
