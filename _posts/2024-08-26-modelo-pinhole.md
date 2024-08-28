@@ -3,7 +3,7 @@ title:  "Entendendo as Câmeras - O Modelo Pinhole"
 author:
   name: Natalia Amorim
   link: https://github.com/NataliaCarvalho03
-date:   2024-01-12 10:00:00 -0300
+date:   2024-08-28 10:00:00 -0300
 categories: [camera, fotogrametria]
 tags: [cameras, fotogrametria]
 pin: false
